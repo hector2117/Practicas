@@ -1,0 +1,12 @@
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe.config
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.pdb
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csprojAssemblyReference.cache
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Form1.resources
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Properties.Resources.resources
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.GenerateResource.cache
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.exe
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.pdb
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.FrmDatosEmpleado.resources
+C:\Users\Sistemas-10\source\repos\C-Registro-de-empleados-en-\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.FrmEmpleados.resources
