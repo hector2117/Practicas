@@ -1,0 +1,53 @@
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe.config
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csprojAssemblyReference.cache
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Agregar_Producto.resources
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Main.resources
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Properties.Resources.resources
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.GenerateResource.cache
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Sistemas-32\source\repos\Sistematico - EthanDavila y AxelMoreno\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe.config
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csprojAssemblyReference.cache
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Main.resources
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Properties.Resources.resources
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.View.resources
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.GenerateResource.cache
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Agregar.resources
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Catalogo.resources
+C:\Users\Ethan Dávila\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.User_Controls.ucTelefono.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe.config
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csprojAssemblyReference.cache
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Agregar.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Catalogo.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Main.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Properties.Resources.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.User_Controls.ucTelefono.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.View.resources
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.GenerateResource.cache
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Sistemas-32\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe.config
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\bin\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csprojAssemblyReference.cache
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Agregar.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Catalogo.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Main.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.Properties.Resources.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.User_Controls.ucTelefono.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico___EthanDavila_y_AxelMoreno.View.resources
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.GenerateResource.cache
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.csproj.CoreCompileInputs.cache
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.exe
+C:\Users\Usos Multiples 05\Desktop\Sistematico-Axel.Moreno-Ethan.Davila\Sistematico - EthanDavila y AxelMoreno\obj\Debug\Sistematico - EthanDavila y AxelMoreno.pdb
